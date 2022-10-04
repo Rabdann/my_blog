@@ -3,3 +3,6 @@ __pycache__/
 database/
 .idea/
 media/
+venv/
+.vscode/
+celerybeat-schedule
